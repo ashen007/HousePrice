@@ -1,0 +1,8 @@
+pandas
+numpy
+jupyter
+sklearn
+feature-engine
+xgboost
+lightgbm
+catboost
