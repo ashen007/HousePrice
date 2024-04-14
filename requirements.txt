@@ -1,7 +1,7 @@
 pandas
 numpy
 jupyter
-sklearn
+scikit-learn
 feature-engine
 xgboost
 lightgbm
